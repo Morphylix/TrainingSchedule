@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TrainingSchedule</string>
+    <string name="date">%s, %s</string>
+    <string name="schedule">Расписание</string>
+    <string name="unknown_trainer">Тренер не назначен</string>
+    <string name="trainings">Занятия</string>
+    <string name="requests">Заявки</string>
+    <string name="add">Добавить</string>
+    <string name="chat">Чат</string>
+    <string name="more">Еще</string>
+    <string name="page_not_found">Страница не найдена</string>
+    <string name="error">Ошибка: %s</string>
+    <string name="server_error">Сервер не отвечает. Попробуйте позже.</string>
+    <string name="try_again">Попробуйте ещё раз</string>
+    <string name="something_went_wrong">Что-то пошло не так</string>
+    <string name="no_connection">Нет соединения</string>
+</resources>

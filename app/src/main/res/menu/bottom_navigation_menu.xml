@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/voteFragment"
+        android:enabled="true"
+        android:icon="@drawable/trainings"
+        android:title="@string/trainings" />
+    <item
+        android:id="@+id/matchingFragment"
+        android:enabled="true"
+        android:icon="@drawable/requests"
+        android:title="@string/requests" />
+    <item
+        android:id="@+id/intervalDragFragment"
+        android:enabled="true"
+        android:icon="@drawable/add"
+        android:title="@string/add" />
+    <item
+        android:id="@+id/intervalInputFragment"
+        android:enabled="true"
+        android:icon="@drawable/chat"
+        android:title="@string/chat" />
+    <item
+        android:id="@+id/ratingFragment"
+        android:enabled="true"
+        android:icon="@drawable/more"
+        android:title="@string/more" />
+
+</menu>
